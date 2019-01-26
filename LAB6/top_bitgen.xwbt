@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\firat\Desktop\dijital2lab\homework\lab5_1\top.ncd
+OUTFILE=C:\Users\firat\Desktop\dijital2lab\homework\lab5_1\top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\firat\Desktop\dijital2lab\homework\lab5_1
+LICENSE=WebPack
+USER_INFO=211609388_0_0_235
