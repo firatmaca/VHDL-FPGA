@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\v1\Desktop\lab7\top.ncd
+OUTFILE=C:\Users\v1\Desktop\lab7\top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\v1\Desktop\lab7
+LICENSE=WebPack
+USER_INFO=211600145_0_0_434

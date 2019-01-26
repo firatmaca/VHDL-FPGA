@@ -1,0 +1,4 @@
+work	"binary_bcd.vhd"
+work	"converter.vhd"
+work	"seven_four.vhd"
+work	"top.vhd"
